@@ -29,7 +29,7 @@ task/009-bubble-sort сортировка пузырьком с требован
 
 task/010-int-validations валидации интов используя шаблоны (декоратор и т.д.) пример (проверить что число положительное, не менее 15 и четное, https://youtu.be/E_t1tQhw7e4)
 
-task/011-simple-callback простой колбек (https://youtu.be/cf9GgxuI0Hc)
+task/011-simple-callback простой колбек (https://youtu.be/cf9GgxuI0Hc) ✔
 
 task/012-lottery лотерейный билет (https://youtu.be/up1dhKWo6hA)
 
