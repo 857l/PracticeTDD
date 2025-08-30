@@ -33,7 +33,7 @@ task/011-simple-callback простой колбек (https://youtu.be/cf9GgxuI0
 
 task/012-lottery лотерейный билет (https://youtu.be/up1dhKWo6hA)
 
-task/013-delay-coroutine задержка времени корутины (принудительно не отдаем ответ от корутины указанное время, https://youtu.be/Zr2qjxxWINE)
+task/013-delay-coroutine задержка времени корутины (принудительно не отдаем ответ от корутины указанное время, https://youtu.be/Zr2qjxxWINE) ✔
 
 task/014-numbers математические операции с числами (https://youtu.be/ssS3Ocrc0L8)
 
