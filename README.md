@@ -53,7 +53,7 @@ task/021-interactor-parser непростая задача на взаимосв
 
 task/022-rx-viewmodel RxJava2 простая цепочка и тест на ViewModel (https://youtu.be/cNXVzCUN5p8)
 
-task/023-lambda юнит тесты с лямбдой как аргументом в конструкторе класса (https://youtu.be/KRpJPGGxmOs)
+task/023-lambda юнит тесты с лямбдой как аргументом в конструкторе класса (https://youtu.be/KRpJPGGxmOs) ✔
 
 task/024-messages-view-model вьюмодель сообщений из проекта ЕСР (рекомендуется решить сначала задачи 020 и 021) (https://youtu.be/gf-MIZIwm2E)
 
